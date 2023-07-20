@@ -1,0 +1,22 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Estilos para el título h1 */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+/* Estilos para el párrafo p */
+p {
+    color: #333;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
