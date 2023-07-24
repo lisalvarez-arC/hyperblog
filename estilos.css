@@ -20,10 +20,11 @@ p {
     line-height: 1.5;
 }
 
+/* Estilos para el contenedor #container */
 #container {
-	width: 70%;
-	padding: lem;
-	text align: left; 
-	border: 1px #0000 solid ;
-	margin: 0 auto;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000000;
+    margin: 0 auto;
 }
